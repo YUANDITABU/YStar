@@ -16,6 +16,8 @@ public class MainActivity extends BaseAcitivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
         super.onCreate(savedInstanceState);
     }
 
